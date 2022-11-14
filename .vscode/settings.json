@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f4ad5e85-ec75-4321-8854-ed7eb611f61d/AppServices/subscriptions/f4ad5e85-ec75-4321-8854-ed7eb611f61d/resourceGroups/signalapp/providers/Microsoft.Web/sites/signalapp1"
+}
